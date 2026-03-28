@@ -167,10 +167,10 @@ Reporting-oriented CSV outputs including the v2 BI-friendly export structure.
 
 ![Export Hub](docs/proof/screenshots/goaltracker_05_exports_hub.png)
 
-### 6 — Power BI Dashboard
-Power BI evidence showing how the export dataset supports downstream BI reporting.
+### 6 — Power BI Dashboard (Premium Dark)
+SaaS-grade dark theme layout with KPI strip, Core Overview (bar chart + donut), Sprint Tracker (cumulative line chart), Deep Analysis (histogram + scatter + efficiency bars), and Hire Manager summary panel.
 
-![Power BI Dashboard](docs/proof/screenshots/goaltracker_06_powerbi_dashboard.png)
+![Power BI Dashboard — Dark](docs/proof/screenshots/goaltracker_06_powerbi_dashboard.png)
 
 ---
 
